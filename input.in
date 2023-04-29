@@ -1,0 +1,10 @@
+.false.                      ! read data
+243.d0                       ! temperature (Kelvin)
+581.d0                       ! fugacity (bar)
+40.d0                        ! length of the cube (Angstrom)
+10.23d0                      ! Cutoff (Angstrom)
+0.0103235d0                  ! Epsilon (eV)
+3.405d0                      ! Sigma (Angstrom)
+10000                        ! Number of cycles
+500                          ! Number of steps
+10101                        ! Seed
